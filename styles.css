@@ -6,7 +6,7 @@
   --secondary-color: #ff0073;
   --text-dark: #1f2937;
   --text-light: #6b7280;
-  --extra-light: #faf5ff;
+  --extra-light: #f5f5f5; /* gris casi blanco */
   --max-width: 1200px;
 }
 
